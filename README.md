@@ -11,3 +11,6 @@ The 3 types of analyses are
 (1) Error rate per body part
 (2) Quantification of potential interactions using head direction
 (3) Quantification of fearful freezing behavior 
+
+
+The videos needed to run the DeepLabCut model can be found here https://drive.google.com/drive/folders/1r5-B-159htMGq9SK7g0ec0tJV7g7_-IY?usp=sharing
