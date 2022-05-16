@@ -14,3 +14,5 @@ The 3 types of analyses are
 
 
 The videos needed to run the DeepLabCut model can be found here https://drive.google.com/drive/folders/1r5-B-159htMGq9SK7g0ec0tJV7g7_-IY?usp=sharing
+
+To set up DeepLabCut, please see the commands that are location in the 'BIAanalysis_Corina' file. 
